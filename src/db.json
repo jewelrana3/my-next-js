@@ -58,7 +58,7 @@
             
                 {
                   "id": 8,
-                  "title": "Product 1",
+                  "title": "hp laptop",
                   "price": 19.99,
                   "categoriesId": 8,
                   "features": ["Feature 1", "Feature 2", "Feature 3"],
@@ -66,7 +66,7 @@
                 },
                 {
                   "id": 2,
-                  "title": "Product 2",
+                  "title": "redmi n 10 s",
                   "price": 29.99,
                   "categoriesId": 3,
                   "features": ["Feature 4", "Feature 5"],
@@ -74,7 +74,7 @@
                 },
                 {
                   "id": 3,
-                  "title": "Product 3",
+                  "title": "samsung phone",
                   "price": 39.99,
                   "categoriesId": 4,
                   "features": ["Feature 6"],
@@ -82,7 +82,7 @@
                 },
                 {
                   "id": 4,
-                  "title": "Product 4",
+                  "title": "Jankhar mahabub",
                   "price": 49.99,
                   "categoriesId": 5,
                   "features": ["Feature 7", "Feature 8"],
@@ -90,7 +90,7 @@
                 },
                 {
                   "id": 5,
-                  "title": "Product 5",
+                  "title": "computer science",
                   "price": 59.99,
                   "categoriesId":6,
                   "features": ["Feature 9", "Feature 10"],
@@ -98,7 +98,7 @@
                 },
                 {
                   "id": 6,
-                  "title": "Product 6",
+                  "title": "opp pro brand",
                   "price": 69.99,
                   "categoriesId":7,
                   "features": ["Feature 11", "Feature 12", "Feature 13"],

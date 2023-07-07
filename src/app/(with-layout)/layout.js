@@ -3,7 +3,7 @@ import Navber from "@/components/navber";
 
 const WithLayout = ({ children }) => {
     return (
-        <div>
+        <div className="container mx-auto">
              <Navber/>
             {children}
             <footer>Footer</footer>
