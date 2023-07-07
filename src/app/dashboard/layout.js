@@ -1,9 +1,10 @@
 import React from 'react';
+import Sidebar from './sidebar';
 
 const LayoutPage = ({children}) => {
     return (
-        <div>
-            <div>Sideber</div>
+        <div className='flex ml-10'>
+          <Sidebar/>
             {children}
         </div>
     );

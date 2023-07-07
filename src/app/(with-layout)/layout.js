@@ -1,11 +1,10 @@
+import Navber from "@/components/navber";
 
 
 const WithLayout = ({ children }) => {
     return (
         <div>
-            <nav>
-                <a href="/">Home</a>
-            </nav>
+             <Navber/>
             {children}
             <footer>Footer</footer>
         </div>
