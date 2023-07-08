@@ -1,112 +1,68 @@
 {
-   "categories" :[
-        {
-          "name": "Item 1",
-          "id": 1,
-          "imageURL": "https://example.com/item1.jpg"
-        },
-        {
-          "name": "Item 2",
-          "id": 2,
-          "imageURL": "https://example.com/item2.jpg"
-        },
-        {
-          "name": "Item 3",
-          "id": 3,
-          "imageURL": "https://example.com/item3.jpg"
-        },
-        {
-          "name": "Item 00",
-          "id": 4,
-          "imageURL": "https://example.com/item4.jpg"
-        },
-        {
-          "name": "Item 5",
-          "id": 5,
-          "imageURL": "https://example.com/item5.jpg"
-        },
-        {
-          "name": "Item 6",
-          "id": 6,
-          "imageURL": "https://example.com/item6.jpg"
-        },
-        {
-          "name": "Item 7",
-          "id": 7,
-          "imageURL": "https://example.com/item7.jpg"
-        },
-        {
-          "name": "Item 8",
-          "id": 8,
-          "imageURL": "https://example.com/item8.jpg"
-        }
+  "categories": [
+    {
+      "name": "Item 1",
+      "id": 1,
+      "imageURL": "https://example.com/item1.jpg"
+    },
+    {
+      "name": "Item 2",
+      "id": 2,
+      "imageURL": "https://example.com/item2.jpg"
+    },
+    {
+      "name": "Item 3",
+      "id": 3,
+      "imageURL": "https://example.com/item3.jpg"
+    },
+    {
+      "name": "Item 00",
+      "id": 4,
+      "imageURL": "https://example.com/item4.jpg"
+    },
+    {
+      "name": "Item 5",
+      "id": 5,
+      "imageURL": "https://example.com/item5.jpg"
+    },
+    {
+      "name": "Item 6",
+      "id": 6,
+      "imageURL": "https://example.com/item6.jpg"
+    },
+    {
+      "name": "Item 7",
+      "id": 7,
+      "imageURL": "https://example.com/item7.jpg"
+    },
+    {
+      "name": "Item 8",
+      "id": 8,
+      "imageURL": "https://example.com/item8.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 4,
+      "title": "Jankhar maha",
+      "price": "49.99",
+      "categoriesId": 5,
+      "features": [
+        "Feature 7",
+        "Feature 8"
       ],
-      
-        "products":[
-            {
-                "id":1,
-                "title":"iphone12",
-                "price":999,
-                "categoriesId":1,
-                "features":[
-                    "a4 bonic photo",
-                    "phone title is good",
-                    "electicity is best side"
-                ],
-                "imageURL":"https://example.com/item12.jpg"
-            },
-            
-                {
-                  "id": 8,
-                  "title": "hp laptop",
-                  "price": 19.99,
-                  "categoriesId": 8,
-                  "features": ["Feature 1", "Feature 2", "Feature 3"],
-                  "imageURL": "https://example.com/product1.jpg"
-                },
-                {
-                  "id": 2,
-                  "title": "redmi n 10 s",
-                  "price": 29.99,
-                  "categoriesId": 3,
-                  "features": ["Feature 4", "Feature 5"],
-                  "imageURL": "https://example.com/product2.jpg"
-                },
-                {
-                  "id": 3,
-                  "title": "samsung phone",
-                  "price": 39.99,
-                  "categoriesId": 4,
-                  "features": ["Feature 6"],
-                  "imageURL": "https://example.com/product3.jpg"
-                },
-                {
-                  "id": 4,
-                  "title": "Jankhar mahabub",
-                  "price": 49.99,
-                  "categoriesId": 5,
-                  "features": ["Feature 7", "Feature 8"],
-                  "imageURL": "https://example.com/product4.jpg"
-                },
-                {
-                  "id": 5,
-                  "title": "computer science",
-                  "price": 59.99,
-                  "categoriesId":6,
-                  "features": ["Feature 9", "Feature 10"],
-                  "imageURL": "https://example.com/product5.jpg"
-                },
-                {
-                  "id": 6,
-                  "title": "opp pro brand",
-                  "price": 69.99,
-                  "categoriesId":7,
-                  "features": ["Feature 11", "Feature 12", "Feature 13"],
-                  "imageURL": "https://example.com/product6.jpg"
-                }
-              
-              
-        ]
-      
-      
+      "imageURL": "https://example.com/product4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "computer science",
+      "price": "59.99",
+      "categoriesId": 6,
+      "features": [
+        "Feature 9",
+        "Feature 10"
+      ],
+      "imageURL": "https://example.com/product5.jpg"
+    }
+  ]
 }

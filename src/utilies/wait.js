@@ -3,7 +3,7 @@
 
 const wait = () => {
     return new Promise((resolve,reject)=>{
-        setTimeout(()=>reject('rejected'),3000)
+        setTimeout(()=>resolve(''),3000)
     })
 }
 
